@@ -1,2 +1,2 @@
 # Metro-App
-A metro app that helps you to het shortest path in between stations, etc.
+A metro app that helps you to get the shortest path between stations, etc.
