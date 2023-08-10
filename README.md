@@ -1,4 +1,7 @@
 # Metro-App
+
+NOTE: Please create a new Executable file for your convenience.
+
 A metro app that helps you to get the shortest path between stations,information about tickets etc.
 
 This application need to install and setup the SDL2 library first. So to download it
