@@ -336,7 +336,7 @@ int main(){
 
 	int src;
 	int dt;
-	string response;
+	do{string response;
 
 	print_response();
 
@@ -364,9 +364,14 @@ int main(){
 		for(auto i:metro){cout<<i.first<<"   |   "<<i.second<<endl;}
 	}
 	else
-	{
+	{   cout<<"WARNING: Please! Press Valid Option"<<endl;
 	    return 0;
 	}
-
-	return 0;
+    cout<<"Do you wish to continue: ";
+	string choice;
+	cin>>choice;
+	transform(choice.begin(), choice.end(), choice.begin(), ::toupper);
+	if(choice=="YES"){continue;}
+	else{break;}
+	}while(1);
 }
