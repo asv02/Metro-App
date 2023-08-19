@@ -15,3 +15,11 @@ NOTE-:If you do not want any change in Environment variables you can do if you h
 After this, an executable file will be created which you can run.
 
 NOTE:- 1. It is best to give the next command after the previous one has been completed, in order to minimize latency. 2. Provide the required option when a new window is opened.
+
+# Screenshots:
+
+![1](/Steps/Step1.png)
+
+![2](/Steps/Step2.png)
+
+![3](/Steps/Step3.png)
