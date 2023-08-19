@@ -22,4 +22,3 @@ NOTE:- 1. It is best to give the next command after the previous one has been co
 
 ![2](/Steps/Step2.png)
 
-![3](/Steps/Step3.png)
